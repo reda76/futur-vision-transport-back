@@ -1,0 +1,7 @@
+Flask
+matplotlib
+numpy
+tensorflow-cpu
+gunicorn
+python-dotenv
+requests
